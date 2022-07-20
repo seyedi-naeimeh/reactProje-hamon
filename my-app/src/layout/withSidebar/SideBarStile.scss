@@ -1,0 +1,29 @@
+.side_style{
+ width: 100%;
+ max-width: 360;
+  margin-top: 30px;
+  // background-color: rgba(71, 69, 70, 0.7);
+    
+}
+.category_style{
+    margin-right: 20px;
+    font-weight: 700;
+}
+.smallsidebar{
+  background-color: rgba(216, 134, 27, 0.7);
+  width: 10%;
+  height: 100%;
+}
+.circle{
+  width: 300px;
+  height: 40px; /* half of width*/
+  border-radius:150px 150px 0px 0px;
+  // background-color:rgba(196, 196, 196, 1);
+ background-color: gray;
+  transform: rotate(-90deg);
+  position: absolute;
+  top: 60%;
+  right: 14%;
+  z-index: 9999999;
+ 
+}
